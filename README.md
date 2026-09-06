@@ -1,4 +1,4 @@
-# Lập trình di động - Kotlin
+# Lập trình trên ĐTDĐ
 
 ## Thông tin sinh viên
 
